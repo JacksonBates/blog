@@ -6,7 +6,7 @@ title:               Jackson Bates
 tagline:             
 url:                 https://jacksonbates.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "/blog"
 
 pages_list:       
   # About: '/about'
