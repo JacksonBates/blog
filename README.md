@@ -1,3 +1,11 @@
+# Github Hosted Blog
+
+Read the blog at [jacksonbates.github.io/blog](https://jacksonbates.github.io/blog)
+
+This is a Jekyll blog, forked from the easy to use Poole repo.
+
+You can read about that below.
+
 # Poole
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.

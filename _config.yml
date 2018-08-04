@@ -2,11 +2,15 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Jackson Bates
+tagline:             
+url:                 https://jacksonbates.github.io/blog
 paginate:            1
 baseurl:             ""
+
+pages_list:       
+  # About: '/about'
+  Archive: '/archive'
 
 # Assets
 #
@@ -17,14 +21,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jackson Bates
+  url:               https://twitter.com/JacksonBates
+  email:             jacksonbates@hotmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/jacksonbates/blog
 
 # Gems
 gems:
