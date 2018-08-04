@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Jackson Bates
 tagline:             
-url:                 https://jacksonbates.github.io/blog
+url:                 https://jacksonbates.github.io/
 paginate:            1
 baseurl:             "/blog"
 
