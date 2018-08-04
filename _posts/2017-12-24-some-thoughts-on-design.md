@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Some Thoughts on Design
-permalink: thoughts-on-design
+permalink: /blog/thoughts-on-design
 ---
 
 In order to create better websites and web apps I intend to really put some time into improving my design skills and knowledge this year.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Help Beginning Coders
-permalink: help-beginners
+permalink: /blog/help-beginners
 ---
 
 _This post was originally published on [Medium](https://medium.com/@JacksonBates/how-to-help-beginning-coders-c8525b26bba8)_
