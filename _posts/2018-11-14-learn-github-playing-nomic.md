@@ -43,3 +43,5 @@ I would love to have more early stage developers play the game with us, since it
 We also welcome experienced open source contributors that just like the sound of playing Nomic via Github. It’s a lot of fun!
 
 Visit https://github.com/JacksonBates/fcc-git-nomic to vote on the current rule proposals and start proposing rules of your own! The game is still young, so you have a real opportunity to influence the path it will take.
+
+{% include twitter_plug.html %}

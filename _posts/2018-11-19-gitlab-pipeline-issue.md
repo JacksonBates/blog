@@ -25,3 +25,5 @@ Gitlab doesn't like this and assumes no longer being able to test the branch is 
 Once we determined this, the fix was easy: create a new branch from the old one and push that gitlab for the PR instead.
 
 This means CI has never run on the branch, and it can be merged without complaints.
+
+{% include twitter_plug.html %}
