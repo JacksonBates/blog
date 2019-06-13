@@ -1,10 +1,10 @@
 ---
 layout: default
-title: What I learned writing 6 functions that all did do the same thing
+title: What I learned writing 6 functions that all do the same thing
 permalink: /six-functions
 ---
 
-# What I learned from writing six functions that all did the same thing
+# What I learned from writing six functions that all do the same thing
 
 A couple weeks ago, a camper started an unofficial algorithm competition on Free Code Camp’s Forum.
 
