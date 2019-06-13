@@ -23,4 +23,8 @@ I just wrote the following in `_includes/head.html`, and it works seamlessly for
 
 Now to figure out how to update the canonical urls on Medium and freeCodeCamp News!
 
+## Update
+
+Actually, I'll delete them from Medium! Discoverability has tanked on Medium anyway since the paywall. Better to just jump ship all-together, I think.
+
 {% include twitter_plug.html %}
