@@ -1,36 +1,36 @@
 # Permalinks
-permalink:           pretty
+permalink: pretty
 
 # Setup
-title:               Jackson Bates
-tagline:             
-url:                 https://jacksonbates.github.io/
-paginate:            1
-baseurl:             "/blog"
+title: Jackson Bates
+tagline:
+url: https://jacksonbates.github.io/
+paginate: 1
+baseurl: "/blog"
 
-pages_list:       
+pages_list:
   # About: '/about'
-  Archive: '/blog/archive'
+  Archive: "/blog/archive"
 
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # About/contact
 author:
-  name:              Jackson Bates
-  url:               https://twitter.com/JacksonBates
-  email:             jacksonbates@hotmail.com
+  name: Jackson Bates
+  url: https://twitter.com/JacksonBates
+  email: jacksonbates@hotmail.com
 
 # Custom vars
-version:             2.0.0
+version: 2.0.0
 github:
-  repo:              https://github.com/jacksonbates/blog
+  repo: https://github.com/jacksonbates/blog
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
