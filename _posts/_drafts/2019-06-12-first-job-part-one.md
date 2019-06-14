@@ -38,7 +38,7 @@ To be honest, I still ask myself about every three weeks or so whether it's wort
 
 ### Prestige
 
-Another thing you can lose is your level of expertise in your domain.
+Another thing you can lose is your level of expertise in your previous domain.
 
 I hadn't given this much thought prior to switching, but one of the things I miss (which is almost certainly ego-driven), is being the most qualified person speaking on a subject.
 
@@ -52,14 +52,30 @@ It's not all doom and gloom, obviously. I love being a web developer for many re
 
 ### Flexibility
 
-As a teacher, my obligations were tied strictly to the school timetable. Holidays had to be taken within a set time -- always the most expensive time for travel, I might add. The day absolutely had to begin, on the bell, at 8:15, or 8:30, or 8:45 depending on the school. The day absolutely could not end before 4pm, or 4:30, or 5pm depending on the school and the duties of the day. It's extremely inconvenient to need to go to the toilet during class time. Don't underestimate that one. Obviously, remote work is a complete pipe-dream. Part-time work is very hard to set up, because you get locked in to the requirements of whichever classes you end up with; part-time days off are extremely rare, since you likely always have at least one scheduled class to teach every day.
+As a teacher, my obligations were tied strictly to the school timetable. Holidays had to be taken within a set time -- always the most expensive time for travel, I might add. The day absolutely had to begin on the bell. The day absolutely could not end until the kids were gone, the last yard duties were staffed and whatever meetings scheduled had happened.
+
+It's extremely inconvenient to need to go to the toilet during class time. Don't underestimate that one.
+
+Obviously, remote work is a complete pipe-dream: the kids are all in a room, and you are also required to be in that room. Technology has come a long way, but not long enouh for remote teaching to be the norm yet.
+
+Part-time work is very hard to set up, because you get locked in to the requirements of whichever classes you end up with; part-time days off are extremely rare, since you likely always have at least one scheduled class to teach every day.
 
 As a parent to a 2-year-old and a 5-year-old, that degree of rigidity makes teaching an almost impossible endeavour if you intend to work full time and have a partner that also teaches full time.
 
-As a web developer, I can work pretty much whatever hours I please. It suits me to arrive early and leave early so I can handle the kids' child-care drop-offs and pick-ups. If a kid is sick, I can work from home without burning up my leave. If I'm sick enough that I could infect my colleagues, but well enough to work, again, I can stay home and not feel guilty about making everyone else sick. I also needed to go part-time to better look after the kids, and that was possible, too. Currently, I'm working 2 days, and at home parenting 3 days a week. That particular set-up would be basically impossible as a teacher.
+As a web developer, I can work pretty much whatever hours I please. It suits me to arrive early and leave early so I can handle the kids' child-care drop-offs and pick-ups. If a kid is sick, I can work from home without burning up my leave. If I'm sick enough that I could infect my colleagues, but well enough to work, again, I can stay home and not feel guilty about making everyone else sick.
+
+I also needed to go part-time to better look after the kids,and that was possible, too. Currently, I'm working 2 days, and at home parenting 3 days a week. That particular set-up would be basically impossible as a teacher.
 
 ### Fun
 
 There were long, arduous parts of my teaching workload that I did not enjoy. There is nothing comparable in my web development job. Sometimes getting stuck on a bug can be frustrating, but I am yet to find it boring. I can honestly say I can spend 40 hours a week coding and still look forward to another 40 hours when the next Monday rolls around. It's probably not for everyone, but it suits my temperament to a tee.
+
+### Finding your people
+
+Maybe your new workplace will have a much higher percentage of nerds, and just maybe that is wonderful!
+
+## So is it worth it?
+
+Only you can decide. If you do decide to make the switch to a programming career after any amount of time doing something else, read the next post which, details more practical advice about hitting the ground running as an early career developer.
 
 {% include twitter_plug.html %}
