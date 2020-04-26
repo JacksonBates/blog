@@ -6,9 +6,9 @@ permalink: /antd-craco-shenanigans
 
 In trying to speed up one of the inherited sites I maintain at work, I aimed to do the reasonably simple task of chunking CSS in a Create React App.
 
-It was became clear quite quickly that the stylesheet for AntD was all being loaded at once, and fixing this is supposed to be quite easy, according to AntD's documentation.
+It became clear quite quickly that the stylesheet for AntD was all being loaded at once, and fixing this is supposed to be quite easy, according to AntD's documentation.
 
-In theory, AntD uses ES6 tree-shaking to only load the required CSS, when configured correctly. Normally this is handled with a webpack plugin, [babel-plugin-import](https://github.com/ant-design/babel-plugin-import), but obviously this is complicated a little by Create React App, which abstracts away the Webpack config.
+In theory, AntD uses ES6 tree-shaking to only load the required CSS, when configured correctly. Normally this is handled with a webpack plugin, [babel-plugin-import](https://github.com/ant-design/babel-plugin-import), but obviously this is complicated a little by Create React App, which abstracts away the webpack config.
 
 AntD recommend using react-app-rewired and customize-cra in their [Advanced Guide](https://ant.design/docs/react/use-with-create-react-app#Advanced-Guides).
 
