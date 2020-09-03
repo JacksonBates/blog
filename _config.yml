@@ -4,13 +4,13 @@ permalink: pretty
 # Setup
 title: Jackson Bates
 tagline:
-url: https://jacksonbates.github.io/
+url: http://blog.jacksonbates.github.io/
 paginate: 1
-baseurl: "/blog"
+baseurl: "/"
 
 pages_list:
   # About: '/about'
-  Archive: "/blog/archive"
+  Archive: "/archive"
 
 # Assets
 #
