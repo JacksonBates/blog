@@ -4,9 +4,10 @@ permalink: pretty
 # Setup
 title: Jackson Bates
 tagline:
-url: http://blog.jacksonbates.com
+url: https://blog.jacksonbates.com
 paginate: 1
 baseurl: "/"
+analytics_id: UA-178925242-1
 
 pages_list:
   # About: '/about'
