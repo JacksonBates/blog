@@ -1,0 +1,37 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Jackson Bates
+tagline:
+url: https://blog.jacksonbates.com
+paginate: 1
+baseurl: "/"
+analytics_id: UA-178925242-1
+
+pages_list:
+  # About: '/about'
+  Archive: "/archive"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Jackson Bates
+  url: https://twitter.com/JacksonBates
+  email: jacksonbates@hotmail.com
+
+# Custom vars
+version: 2.0.0
+github:
+  repo: https://github.com/jacksonbates/blog
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
