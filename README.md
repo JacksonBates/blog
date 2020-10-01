@@ -1,3 +1,6 @@
+Read the blog at [blog.jacksonbates.com](https://blog.jacksonbates.com/)
+
+
 # Chirpy
 
 🌏 English • [简体中文](docs/README_zh-CN.md)
@@ -69,6 +72,7 @@ In order to generate some extra files (_categories_, _tags_ and _last modified l
 - on macOS:
 
   ```console
+  $ brew install yq
   $ brew install coreutils
   ```
 
