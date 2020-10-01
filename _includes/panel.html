@@ -10,7 +10,7 @@
 
   <div class="access">
 
-  {% if site.data.updates %}
+    {% if site.data.updates %}
 
     {% include update-list.html %}
 
@@ -22,25 +22,27 @@
       </h3>
       <ul class="post-content pl-0 pb-1 ml-1 mt-2">
 
-      {% for item in update_list %}
+        {% for item in update_list %}
         {% assign post_url = item | split: "::" | last | url_encode | prepend: "/posts/" | append: "/" %}
         {% assign post = site.posts | where: "url", post_url | first %}
 
         {% if post %}
-          {% assign url = post.url | relative_url %}
-          <li><a href="{{ url }}">{{ post.title }}</a></li>
+        {% assign url = post.url | relative_url %}
+        <li><a href="{{ url }}">{{ post.title }}</a></li>
         {% endif %}
 
-      {% endfor %}
+        {% endfor %}
 
       </ul>
     </div><!-- #access-lastmod -->
 
     {% endif %}
 
-  {% endif %} <!-- site.data.updates -->
+    {% endif %}
+    <!-- site.data.updates -->
 
-  {% include trending-tags.html %}
+    <!-- TODO: implement trending tags -->
+    <!-- {% include trending-tags.html %}
 
   {% if trending_tags.size > 0 %}
     <div id="access-tags">
@@ -55,7 +57,7 @@
       {% endfor %}
       </div>
     </div>
-  {% endif %}
+  {% endif %} -->
   </div> <!-- .access -->
 
   {% if page.layout == 'post' and site.toc and page.toc %}

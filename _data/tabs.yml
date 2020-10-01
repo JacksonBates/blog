@@ -4,17 +4,15 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
-
--
-  name: Home
+- name: Home
   icon: "fas fa-home"
--
-  name: "Tags"
-  icon: "fas fa-tags"
-  path: tags
-  url: 
--
-  name: "Archive"
+# TODO: implement tags properly
+# -
+#   name: "Tags"
+#   icon: "fas fa-tags"
+#   path: tags
+#   url:
+- name: "Archive"
   icon: "fas fa-archive"
   path: archive
-  url:  
+  url:
