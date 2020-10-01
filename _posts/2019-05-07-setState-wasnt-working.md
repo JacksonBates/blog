@@ -1,7 +1,8 @@
 ---
-layout: default
 title: setState wasn't working - annoying bug postmortem!
 permalink: /setState-fail
+date: 2019-05-07 11:33:00 +0800
+tags: [react]
 ---
 
 # setState was not working: Post mortem

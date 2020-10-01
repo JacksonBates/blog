@@ -1,7 +1,8 @@
 ---
-layout: default
 title: How to Help Beginning Coders
 permalink: /help-beginners
+date: 2017-11-22 11:33:00 +0800 
+tags: [learning]
 ---
 
 _This post was originally published on [Medium](https://medium.com/@JacksonBates/how-to-help-beginning-coders-c8525b26bba8)_

@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Succeeding in Your First Dev Role
 permalink: /beginner-dev-success
+date: 2019-06-12 11:33:00 +0800
+tags: [career]
 ---
 
 <script>

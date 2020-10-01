@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Fixing AntD CSS Module Imports in Create React App with CRACO
 permalink: /antd-craco-shenanigans
+date: 2020-04-26 11:33:00 +0800
+tags: [react]
 ---
 
 # ANTD CSS Order Shenanigans in a Create React App

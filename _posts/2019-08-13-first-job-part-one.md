@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Switching Careers and Becoming a Programmer
 permalink: /career-switcher
+date: 2019-08-13 11:33:00 +0800
+tags: [career]
 ---
 
 <meta name="twitter:card" content="summary_large_image">

@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Getting Started With Passwordless Authentication
 permalink: /passwordless
+date: 2016-09-20 11:33:00 +0800
+tags: [authentication]
 ---
 
 # Getting Started With Passwordless Authentication

@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Why and How I Delete My Tweets After 10 Days
 permalink: /ephemeral-twitter
+date: 2017-07-26 11:33:00 +0800
+tags: [twitter]
 ---
 
 # Why and how I delete my tweets after 10 days

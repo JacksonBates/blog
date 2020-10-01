@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Setting up a simple testing suite
 permalink: /mocha-chai
+date: 2016-10-30 11:33:00 +0800
+tags: [testing]
 ---
 
 ## Getting started with testing

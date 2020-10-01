@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Overcoming a Gitlab Pipeline Failure
 permalink: /gitlab-pipeline-failure
+date: 2018-11-19 11:33:00 +0800
+tags: [gitlab]
 ---
 
 I ran into a weird issue during a Gitlab Merge Request today.

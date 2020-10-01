@@ -1,7 +1,8 @@
 ---
-layout: default
 title: What I learned writing 6 functions that all do the same thing
 permalink: /six-functions
+date: 2016-10-30 11:33:00 +0800
+tags: [functions]
 ---
 
 # What I learned from writing six functions that all do the same thing

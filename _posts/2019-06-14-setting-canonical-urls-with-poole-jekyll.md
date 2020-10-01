@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Setting Cannonical Urls for Your Poole / Jekyll Blog
 permalink: /canonical-url
+date: 2019-06-14 11:33:00 +0800
+tags: [seo]
 ---
 
 ## Setting a Canonical Url for your Poole or Jekyll Blog

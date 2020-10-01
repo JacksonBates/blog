@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Learn Github Pull Requests By Playing This Game
 permalink: /learn-github-playing-nomic
+date: 2018-11-14 11:33:00 +0800
+tags: [github]
 ---
 
 As a member of the freeCodeCamp community, I’m always looking for new ways to encourage early stage developers and help them get to grips with the many challenges facing them in their nascent careers.
