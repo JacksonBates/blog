@@ -16,9 +16,9 @@ It turns out that while Poole (the Jekyll 'butler' I use for this blog) doesn't 
 I just wrote the following in `_includes/head.html`, and it works seamlessly for all posts:
 
 ```html
-<link
-  rel="canonical"
-  href="https://jacksonbates.github.io/blog{{ page.url }}"
+<link 
+  rel="canonical" 
+  href="https://blog.jacksonbates.com{{ page.url }}" 
 />
 ```
 
