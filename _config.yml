@@ -117,16 +117,14 @@ defaults:
       path: _drafts
     values:
       comments: false
-  # - scope:
-  #     path: tags
-  #   values:
-  #     tab_active: Tags
-  #     location: Tags
-  #     breadcrumb:
-  #       - label: Home
-  #         url: /
-  #       - label: Tags
-  #         url: /tags/
+  - scope:
+      path: tags
+    values:
+      tab_active: Tags
+      location: Tags
+      breadcrumb:
+        - label: Home
+          url: /
   - scope:
       path: archive
     values:
@@ -135,8 +133,6 @@ defaults:
       breadcrumb:
         - label: Home
           url: /
-        - label: Archive
-          url: /archive/
 
 sass:
   sass_dir: /assets/css
@@ -184,7 +180,7 @@ sitemap_exclude: # Sitemap will exclude the following items.
     - /assets/
   accurate:
     - /norobots/
-    # - /tags/
+    - /tags/
     - /posts/
     - 404.html
     - feed.xml
