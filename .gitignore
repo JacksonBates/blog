@@ -1,5 +1,4 @@
-# hidden files
-.*
+
 
 # python compiled files
 *.pyc
