@@ -2,7 +2,7 @@
 title: A simple color generator
 permalink: /color-generator
 date: 2018-12-13 11:33:00 +0800
-tags: [apps]
+tags: [noodling]
 ---
 
 I wanted a quick and easy way to generate semi-random, but consistent colours.

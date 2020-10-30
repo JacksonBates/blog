@@ -2,7 +2,7 @@
 title: What I learned writing 6 functions that all do the same thing
 permalink: /six-functions
 date: 2016-10-30 11:33:00 +0800
-tags: [functions]
+tags: [code]
 ---
 
 # What I learned from writing six functions that all do the same thing
@@ -51,20 +51,20 @@ I wrote a simple testing script using the values P1xt provided. Notice that in t
 var should = require("chai").should();
 var arrayPushAndIncrement = require("./arrayPushAndIncrement");
 
-describe("arrayPushAndIncrement", function() {
-  it("should return 23 when passed 10", function() {
+describe("arrayPushAndIncrement", function () {
+  it("should return 23 when passed 10", function () {
     arrayPushAndIncrement(10).should.equal(23);
   });
-  it("should return 78 when passed 20", function() {
+  it("should return 78 when passed 20", function () {
     arrayPushAndIncrement(20).should.equal(78);
   });
-  it("should return 2318 when passed 100", function() {
+  it("should return 2318 when passed 100", function () {
     arrayPushAndIncrement(100).should.equal(2318);
   });
-  it("should return 23331668 when passed 10000", function() {
+  it("should return 23331668 when passed 10000", function () {
     arrayPushAndIncrement(10000).should.equal(23331668);
   });
-  it("should return 486804150 when passed 45678", function() {
+  it("should return 486804150 when passed 45678", function () {
     arrayPushAndIncrement(45678).should.equal(486804150);
   });
 });
@@ -84,7 +84,7 @@ function arrayPushAndReduce(n) {
       array.push(i);
     }
   }
-  return array.reduce(function(prev, current) {
+  return array.reduce(function (prev, current) {
     return prev + current;
   });
 }
@@ -107,17 +107,17 @@ var arrayPushAndReduce = require("./arrayPushAndReduce");
 
 // add tests
 suite
-  .add("arrayPushAndIncrement", function() {
+  .add("arrayPushAndIncrement", function () {
     arrayPushAndIncrement(45678);
   })
-  .add("arrayPushAndReduce", function() {
+  .add("arrayPushAndReduce", function () {
     arrayPushAndReduce(45678);
   })
   // add listeners
-  .on("cycle", function(event) {
+  .on("cycle", function (event) {
     console.log(String(event.target));
   })
-  .on("complete", function() {
+  .on("complete", function () {
     console.log("Fastest is " + this.filter("fastest").map("name"));
   })
   // run async
@@ -149,7 +149,7 @@ function whileLoopArrayReduce(n) {
       array.push(n);
     }
   }
-  return array.reduce(function(prev, current) {
+  return array.reduce(function (prev, current) {
     return prev + current;
   });
 }

@@ -2,18 +2,18 @@
 title: The Case of the Missing Migrations
 permalink: /missing-migrations
 date: 2020-10-30 18:00:00 +1100
-tags: [inherited-codebase-diaries]
+tags: [inherited-codebase-diaries, laravel, databases]
 ---
 
 I've been working exclusively in an inherited codebase for nearly a year now and I frequently see things the previous developers did that have caused problems.
 
 Everytime I see one of these, I joke to myself that I'm going to write a book called _The Inherited Codebase Diaries_.
 
-I've just started a little freelancing on the side too, and have come up against the same problem I first experienced my normal day job codebase, so I can resist no more:
+I've just started a little freelancing on the side too, and have come up against the same problem I first experienced in my normal day job codebase, so I can resist no more:
 
 ## The Inherited Codebase Diaries: The case of the missing migrations
 
-Many database ORMs / App frameworks offer database migrations. These are like source code for your database.
+Many database ORMs / App frameworks offer database migrations. These are like source control for your database.
 
 The great thing about them is that regardless of changes to your database schema, you can roll it back to any point in its history and restore a working database.
 
