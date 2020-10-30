@@ -1,4 +1,4 @@
-name: 'Automatic build'
+name: "Automatic build"
 on:
   push:
     branches:
@@ -10,7 +10,6 @@ on:
 
 jobs:
   continuous-delivery:
-
     runs-on: ubuntu-latest
 
     env:
@@ -67,14 +66,14 @@ jobs:
         run: |
           bash tools/build.sh
 
-          if [[ -n $SPEC_TEST ]]; then
-            # Bypass the defects of htmlproofer
-            bash tools/build.sh -b "" -d "$SPEC_TEST"
-          fi          
+      #     if [[ -n $SPEC_TEST ]]; then
+      #       # Bypass the defects of htmlproofer
+      #       bash tools/build.sh -b "" -d "$SPEC_TEST"
+      #     fi
 
-      - name: Test Site
-        run: |
-          bash tools/test.sh "$SPEC_TEST"
+      # - name: Test Site
+      #   run: |
+      #     bash tools/test.sh "$SPEC_TEST"
 
       - name: Deploy
         run: |
