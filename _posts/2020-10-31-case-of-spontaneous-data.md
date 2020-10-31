@@ -15,7 +15,7 @@ The previous blog post discussed the virtues of using database migrations to mak
 
 An interesting problem surfaced in the inherited codebase a few months ago.
 
-I was writing some database seeders to set the stage for some automated testing (there were none, further chapters of these diaries are indeed pending). One of the seeders was recreating some user roles. For argument's sake let's say `id = 4` was for **Wizard** and `id = 5` was for **Ninja**.
+I was writing some database seeders to set the stage for some automated testing (there were none, further chapters of these diaries are indeed pending). One of the seeders was recreating some user roles. For argument's sake let's say `id = 5` was for **Wizard** and `id = 6` was for **Ninja**.
 
 Running the completely fresh migrations and seeding the entirely empty database threw an error.
 
