@@ -5,7 +5,7 @@ date: 2020-10-31 11:00:00 +1100
 tags: [inherited-codebase-diaries, laravel, databases]
 ---
 
-Long before the invention of the internet, and indeed before medecine as we know it, there was a belief in a process known as Spontaneous Generation.
+Long before the invention of the internet, and indeed before medicine as we know it, there was a belief in a process known as Spontaneous Generation.
 
 It was the explanation for the manifestation of maggots on meat left exposed for a time. It was the explanation for the appearance of mice in pantries where cheese had been left. It might sometimes even tempt you to believe that the bugs in your code simply materialized, perhaps catalyzed by the proximity of your code, but certainly not caused by it.
 
