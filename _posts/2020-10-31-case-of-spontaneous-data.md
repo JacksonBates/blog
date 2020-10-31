@@ -11,7 +11,7 @@ It was the explanation for the manifestation of maggots on meat left exposed for
 
 ## The Inherited Codebase Diaries: The case of the spontaneous data
 
-The previous blog post discussed the virtues of using database migrations to make and track changes to your database schema. We laughed, we cried, we prommised to never change our schemas without migrations ever again.
+The previous blog post discussed the virtues of using database migrations to make and track changes to your database schema. We laughed, we cried, we promised to never change our schemas without migrations ever again.
 
 An interesting problem surfaced in the inherited codebase a few months ago.
 
