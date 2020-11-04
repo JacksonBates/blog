@@ -31,7 +31,7 @@ Your reviewer should also check whether it does what it is supposed to do. They 
 
 ### Efficiency
 
-More experienced developers (or simply those with a knack for this kind of thing) can find opportunities for efficiencies in your code. One the one hand, they may recognise that your nested loops can be simplified with a nicer O(log n) solution that improves the resource usage of your code. On the other hand, they may spot an opportunity to refactor and modularize your code to cut down on repetition.
+More experienced developers (or simply those with a knack for this kind of thing) can find opportunities for efficiencies in your code. On the one hand, they may recognise that your nested loops can be simplified with a nicer O(log n) solution that improves the resource usage of your code. On the other hand, they may spot an opportunity to refactor and modularize your code to cut down on repetition.
 
 ### Best Practices / 'Code smells'
 
@@ -54,7 +54,7 @@ But let's assume a dev with less experience - a category I fall into, as it happ
 
 The **clarity** issue is hard to do alone - your best bet is to return to code you've written periodically and see if it still makes sense to you. You are unlikely to have time to revisit and fix such code down the track, but you will bump up against code you've written from time to time, and as you re-encounter it you may be able to tighten up what you wrote to clarify it.
 
-**Functionality and completeness** is easier. As I alluded to above, good test coverage can help you think about edge cases beforehand. Although you are the solo dev on your team, hopefully there are other people within your organisation that can do some user acceptance testing (UAT) for you. It is hard to QA your own work, for the same reason it is hard to spot your own loack of clarity: you've just written it and you're thinking about the '[happy path](https://en.wikipedia.org/wiki/Happy_path)'. Getting a second perspective, even from a non-dev, will help you find the edge cases you didn't think of.
+**Functionality and completeness** is easier. As I alluded to above, good test coverage can help you think about edge cases beforehand. Although you are the solo dev on your team, hopefully there are other people within your organisation that can do some user acceptance testing (UAT) for you. It is hard to QA your own work, for the same reason it is hard to spot your own lack of clarity: you've just written it and you're thinking about the '[happy path](https://en.wikipedia.org/wiki/Happy_path)'. Getting a second perspective, even from a non-dev, will help you find the edge cases you didn't think of.
 
 **Efficiency**, both in terms of speed and code repetition is a matter of experience and knowledge. The best tool you have at your disposal here is time. Take some time before pushing your commits to ask some questions about your own code: Where are the possible inefficiencies - nested loops, frequent database operations, that kind of thing. Think about other ways to achieve the same outcome in more efficient ways - knowledge of data structures and common alogorithms / patterns can help here. The other thing to spend some time on is learning these. Obviously, if you catch yourself copying and pasting code from within the codebase, you likely have an opportunity to refactor there, too.
 
