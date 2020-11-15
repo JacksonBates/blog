@@ -5,8 +5,6 @@ date: 2016-10-30 11:33:00 +0800
 tags: [code]
 ---
 
-# What I learned from writing six functions that all do the same thing
-
 A couple weeks ago, a camper started an unofficial algorithm competition on Free Code Camp’s Forum.
 
 The challenge seemed simple enough: _return the sum of all multiples of 3 or 5 that are below a number N, where N is an input parameter to the function_.

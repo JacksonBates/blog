@@ -2,10 +2,8 @@
 title: Fixing AntD CSS Module Imports in Create React App with CRACO
 permalink: /antd-craco-shenanigans
 date: 2020-04-26 11:33:00 +0800
-tags: [react]
+tags: [react, post-mortem]
 ---
-
-# ANTD CSS Order Shenanigans in a Create React App
 
 In trying to speed up one of the inherited sites I maintain at work, I aimed to do the reasonably simple task of chunking CSS in a Create React App.
 

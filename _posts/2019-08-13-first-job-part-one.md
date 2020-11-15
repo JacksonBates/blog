@@ -11,8 +11,6 @@ tags: [career]
 <meta name="twitter:description" content="Maybe you're just thinking about switching careers to pursue programming, or maybe you have already made the leap and are early on enough in your career that you are still wondering about the wisdom of such a leap.">
 <meta name="twitter:image" content="https://source.unsplash.com/pjAH2Ax4uWk">
 
-# So You've Decided To Switch Careers and Start Coding
-
 ![a person looking at code on a computer screen](https://source.unsplash.com/pjAH2Ax4uWk)
 
 Maybe you're just thinking about switching careers to pursue programming, or maybe you have already made the leap and are early on enough in your career that you are still wondering about the wisdom of such a leap.

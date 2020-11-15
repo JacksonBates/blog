@@ -2,16 +2,14 @@
 title: setState wasn't working - annoying bug postmortem!
 permalink: /setState-fail
 date: 2019-05-07 11:33:00 +0800
-tags: [react]
+tags: [react, post-mortem]
 ---
-
-# setState was not working: Post mortem
 
 I encountered a very annoying bug in a piece of basic React code yesterday, and it took me and another experienced developer far too long to spot the problem.
 
 Here is the screenshot I posted to Slack after spending no small amount of time already trying to figure it out:
 
-![setStateFail]({{ site.baseurl }}/public/images/setState-fail.png "setState bug screenshot")
+![setStateFail]({{ site.baseurl }}/assets/img/setState-fail.png "setState bug screenshot")
 
 We have an annoying issue in our product where an informative screen element truncates long messages, so we wanted a simple solution of rendering a modal with the full message when the truncated version was clicked. VERY EASY to do with React, right?
 

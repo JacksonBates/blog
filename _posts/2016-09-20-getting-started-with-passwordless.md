@@ -5,8 +5,6 @@ date: 2016-09-20 11:33:00 +0800
 tags: [authentication]
 ---
 
-# Getting Started With Passwordless Authentication
-
 You may have heard that there are [360 Million Reasons to Destroy All Passwords](https://www.freecodecamp.org/news/360-million-reasons-to-destroy-all-passwords-9a100b2b5001/) and that [Passwords are Obsolete](https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb). But that doesn’t really help you actually make a passwordless authentication system, does it?
 
 Doing authentication well can be hard and fraught with potential security traps. The good news is that there are some lovely little JavaScript libraries that can do some of that heavy lifting for us. And they provide lots of code snippets to help us get started.
@@ -111,7 +109,12 @@ Be sure to change the ‘host’ URL to your own app’s URL.
 // server.js
 // Setup of Passwordless
 passwordless.init(new MongoStore(pathToMongoDb));
-passwordless.addDelivery(function(tokenToSend, uidToSend, recipient, callback) {
+passwordless.addDelivery(function (
+  tokenToSend,
+  uidToSend,
+  recipient,
+  callback
+) {
   // Send out token
   smtpServer.send(
     {
@@ -132,7 +135,7 @@ passwordless.addDelivery(function(tokenToSend, uidToSend, recipient, callback) {
         },
       ],
     },
-    function(err, message) {
+    function (err, message) {
       if (err) {
         console.log(err);
       }
@@ -193,7 +196,7 @@ Login:
 ```js
 // routes.js
 // GET /login
-router.get("/login", function(req, res) {
+router.get("/login", function (req, res) {
   res.render("login");
 });
 // POST /sendtoken
@@ -202,11 +205,11 @@ router.post(
   urlencodedParser,
   passwordless.requestToken(
     // Simply accept every user*
-    function(user, delivery, callback) {
+    function (user, delivery, callback) {
       callback(null, user);
     }
   ),
-  function(req, res) {
+  function (req, res) {
     res.render("pages/sent", { user: req.user });
   }
 );
@@ -223,7 +226,7 @@ Logout:
 ```js
 // routes.js
 // GET logout
-router.get("/logout", passwordless.logout(), function(req, res) {
+router.get("/logout", passwordless.logout(), function (req, res) {
   res.redirect("/");
 });
 ```
@@ -240,7 +243,7 @@ router.get(
   passwordless.restricted({
     failureRedirect: "/login",
   }),
-  function(req, res) {
+  function (req, res) {
     res.render("pages/restricted", { user: req.user });
   }
 );

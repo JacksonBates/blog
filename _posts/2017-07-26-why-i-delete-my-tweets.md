@@ -5,8 +5,6 @@ date: 2017-07-26 11:33:00 +0800
 tags: [twitter]
 ---
 
-# Why and how I delete my tweets after 10 days
-
 _I thought I was releasing my flighty words into the world with every tweet, but in reality, Twitter was just a bird cage rapidly filling with every inane utterance I flung into it._
 
 ## Why do I do it?

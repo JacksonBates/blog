@@ -1,12 +1,9 @@
 ---
 title: How to Help Beginning Coders
 permalink: /help-beginners
-date: 2017-11-22 11:33:00 +0800 
-tags: [learning]
+date: 2017-11-22 11:33:00 +0800
+tags: [learning, mentoring]
 ---
-
-_This post was originally published on [Medium](https://medium.com/@JacksonBates/how-to-help-beginning-coders-c8525b26bba8)_
-
 
 I am one of those teachers that has been working on transitioning out of the classroom in order to pursue a coding career. As I learn to code, and help others in their coding journey on the [Free Code Camp forum](https://forum.freecodecamp.org), I see lots of teaching take place.
 
@@ -63,7 +60,7 @@ As mentioned above, asking questions is crucial to help the teacher understand w
 
 A common teaching technique employed in schools is scaffolding. This process boils down to the teacher providing less and less structure and support as the learner becomes more capable of proceeding unassisted.
 
-You can leverage this technique when helping beginners when you understand their ZPD. It is important to understand whether someone just needs a nudge in the right direction — _Hey, you may want to look up how AJAX works in jQuery_ — or whether they need something a little more substantial — Hey, you can use `$getJSON(‘http://….’, function(data){…})` to do that…have you use a callback function before?
+You can leverage this technique when helping beginners when you understand their ZPD. It is important to understand whether someone just needs a nudge in the right direction — *Hey, you may want to look up how AJAX works in jQuery* — or whether they need something a little more substantial — Hey, you can use `$getJSON(‘http://….’, function(data){…})` to do that…have you use a callback function before?
 
 # Modelling
 

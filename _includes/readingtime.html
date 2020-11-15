@@ -1,0 +1,11 @@
+<script>
+    document.addEventListener("DOMContentLoaded", (event) => {
+        var wordcount = document.querySelector('.post').innerText.split(' ').length;
+        var minutes = Math.round(wordcount / 300);
+        var unit = ' minutes.';
+        if (minutes === 1) { unit = ' minute.' }
+        document.getElementById('readingTime').innerText = 'Reading Time: ' + minutes + unit;
+    });
+</script>
+
+<div id='readingTime'></div>
