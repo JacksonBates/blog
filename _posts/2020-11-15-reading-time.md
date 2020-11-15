@@ -38,7 +38,7 @@ The final snippet, saved as the include `readingtime.html`, looks like this:
 <div id="readingTime"></div>
 ```
 
-Then all I needed to do was add the `{% include readingtime.html %}` to an appropriate spot on my `post.html` layout.
+Then all I needed to do was add the `include readingtime.html` to an appropriate spot on my `post.html` layout.
 
 And that was it - minimal fuss, autocalculated reading time estimates on all posts historical and going forward.
 
