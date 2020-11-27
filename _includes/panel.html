@@ -42,31 +42,31 @@
     <!-- site.data.updates -->
 
     <!-- TODO: implement trending tags -->
-    <!-- {% include trending-tags.html %}
+    {% include trending-tags.html %}
 
-  {% if trending_tags.size > 0 %}
+    {% if trending_tags.size > 0 %}
     <div id="access-tags">
       <h3 data-toc-skip>
         {{- site.data.label.panel.trending_tags -}}
       </h3>
       <div class="d-flex flex-wrap mt-3 mb-1 mr-3">
 
-      {% for tag in trending_tags %}
+        {% for tag in trending_tags %}
         {% capture url %}/tags/{{ tag | downcase | url_encode }}/{% endcapture %}
         <a class="post-tag" href="{{ url | relative_url }}">{{ tag | replace: '-', ' ' }}</a>
-      {% endfor %}
+        {% endfor %}
       </div>
     </div>
-  {% endif %} -->
+    {% endif %}
   </div> <!-- .access -->
 
-  {% if page.layout == 'post' and site.toc and page.toc %}
+  <!-- {% if page.layout == 'post' and site.toc and page.toc %}
   <div id="toc-wrapper" class="pl-0 pr-4 mb-5">
     <h3 data-toc-skip class="pl-3 pt-2 mb-2">
       {{- site.data.label.panel.toc -}}
     </h3>
     <nav id="toc" data-toggle="toc"></nav>
   </div>
-  {% endif %}
+  {% endif %} -->
 
 </div> <!-- #panel-wrapper -->
