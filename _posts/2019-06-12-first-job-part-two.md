@@ -5,8 +5,6 @@ date: 2019-08-14 11:00:00 +0800
 tags: [career]
 ---
 
-# Succeeding in Your First Dev Role
-
 You've overcome the hurdles between you and your first role as a professional developer. Now you actually need to seem, and feel, like you know what you're doing!
 
 Imposter Syndrome is something that haunts many developers at various stages of their careers, but if you have come into the industry from another field, with no professional experience, the first few months in your new role can feel particularly difficult. You have earned the job you were given, but that doesn't mean you won't occassionally feel like a fraud.
