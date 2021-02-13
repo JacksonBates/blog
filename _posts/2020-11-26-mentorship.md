@@ -3,6 +3,7 @@ title: How to find a mentor
 permalink: /finding-a-mentor
 date: 2020-11-27 22:00:00 +1100
 tags: [career, mentoring]
+description: A straightforward guide for finding a mentor relationship to help you on your coding journey
 ---
 
 There was an excellent discussion between Jason Lengstorf and Cassidy Williams hosted on the freeCodeCamp YouTube channel this week, and part of it (linked below) really resonated with me about mentorship.

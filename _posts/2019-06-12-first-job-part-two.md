@@ -3,6 +3,7 @@ title: Succeeding in Your First Dev Role
 permalink: /beginner-dev-success
 date: 2019-08-14 11:00:00 +0800
 tags: [career]
+description: A guide to feeling a little less junior as you start your software engineering career, from a high school English teacher turned Lead Software Engineer.
 ---
 
 You've overcome the hurdles between you and your first role as a professional developer. Now you actually need to seem, and feel, like you know what you're doing!

@@ -3,6 +3,7 @@ title: Ensuring Code Quality as a Solo Dev
 permalink: /solo-dev-code-quality
 date: 2020-11-4 23:20:00 +1100
 tags: [solo-dev]
+description: Working alone on software is difficult, not least because you miss out on code review and other devs to bounce off. Here is how a solo developer can thrive!
 ---
 
 An interesting question from Twitter:

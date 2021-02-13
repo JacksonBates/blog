@@ -3,6 +3,7 @@ title: How to Orient Yourself in Legacy Codebases
 permalink: /legacy-code
 date: 2020-11-16 22:30:00 +1100
 tags: [legacy, inherited-codebase-diaries]
+description: A guide to working with legacy code as a software engineer. How to level up from junior to senior developer.
 ---
 
 There was a thought-provoking episode of DevsLikeUs on YouTube that I watched today: [Inherit Legacy Code Like a Pro - The Allen Interview](https://www.youtube.com/watch?v=FGYE83KmoQ8&t=2753s).

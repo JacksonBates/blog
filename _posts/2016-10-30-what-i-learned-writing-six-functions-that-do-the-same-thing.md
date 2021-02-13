@@ -3,6 +3,7 @@ title: What I learned writing 6 functions that all do the same thing
 permalink: /six-functions
 date: 2016-10-30 11:33:00 +0800
 tags: [code]
+description: Writing different versions of the same function can uncover interesting performance insights when benchmarked.
 ---
 
 A couple weeks ago, a camper started an unofficial algorithm competition on Free Code Camp’s Forum.

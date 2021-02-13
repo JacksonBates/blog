@@ -3,6 +3,7 @@ title: Getting Started With Passwordless Authentication
 permalink: /passwordless
 date: 2016-09-20 11:33:00 +0800
 tags: [authentication]
+description: A simple guide to implementing passwordless authentication for a NodeJS, Express, Mongo app with email auth tokens
 ---
 
 You may have heard that there are [360 Million Reasons to Destroy All Passwords](https://www.freecodecamp.org/news/360-million-reasons-to-destroy-all-passwords-9a100b2b5001/) and that [Passwords are Obsolete](https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb). But that doesn’t really help you actually make a passwordless authentication system, does it?

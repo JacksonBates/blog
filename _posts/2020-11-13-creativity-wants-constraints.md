@@ -3,6 +3,7 @@ title: Creativity Wants Constraints
 permalink: /creativity-wants-constraints
 date: 2020-11-13 22:30:00 +1100
 tags: [creativity, musings]
+description: Barriers, rules, constraints and hurdles can force you to come up with interesting and innovative programming solutions to problems
 ---
 
 Before software engineering, I was an English Teacher, and before that, a wannabe poet.

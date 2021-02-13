@@ -3,6 +3,7 @@ title: How to Restart Tinker
 permalink: /tinker-restart
 date: 2020-11-18 21:00:00 +1100
 tags: [tips, laravel]
+description: How to keep Tinker up to date with code changes in Laravel PHP with a simple refresh trick
 ---
 
 I was stuck with an annoying scenario today:

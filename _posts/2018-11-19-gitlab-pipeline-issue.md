@@ -3,6 +3,7 @@ title: Overcoming a Gitlab Pipeline Failure
 permalink: /gitlab-pipeline-failure
 date: 2018-11-19 11:33:00 +0800
 tags: [gitlab, CI-CD, post-mortem]
+description: Diagnosing and fixing a peculiar Gitlab pipeline failure when CI branch triggers are changed
 ---
 
 I ran into a weird issue during a Gitlab Merge Request today.

@@ -3,6 +3,7 @@ title: How to Help Beginning Coders
 permalink: /help-beginners
 date: 2017-11-22 11:33:00 +0800
 tags: [learning, mentoring]
+description: A useful guide for senior developers to consider when helping their junior colleagues embark on software engineering careers.
 ---
 
 I am one of those teachers that has been working on transitioning out of the classroom in order to pursue a coding career. As I learn to code, and help others in their coding journey on the [Free Code Camp forum](https://forum.freecodecamp.org), I see lots of teaching take place.

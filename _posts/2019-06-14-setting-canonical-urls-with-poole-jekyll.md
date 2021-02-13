@@ -3,6 +3,7 @@ title: Setting Cannonical Urls for Your Poole / Jekyll Blog
 permalink: /canonical-url
 date: 2019-06-14 11:33:00 +0800
 tags: [seo]
+description: A simple, one line snippet that adds canonical urls to Jekyll blogs without the need for SEO gems to be installed.
 ---
 
 ## Setting a Canonical Url for your Poole or Jekyll Blog
@@ -16,10 +17,7 @@ It turns out that while Poole (the Jekyll 'butler' I use for this blog) doesn't 
 I just wrote the following in `_includes/head.html`, and it works seamlessly for all posts:
 
 ```html
-<link 
-  rel="canonical" 
-  href="https://blog.jacksonbates.com{{ page.url }}" 
-/>
+<link rel="canonical" href="https://blog.jacksonbates.com{{ page.url }}" />
 ```
 
 Now to figure out how to update the canonical urls on Medium and freeCodeCamp News!

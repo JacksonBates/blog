@@ -3,6 +3,7 @@ title: Why and How I Delete My Tweets After 10 Days
 permalink: /ephemeral-twitter
 date: 2017-07-26 11:33:00 +0800
 tags: [twitter]
+description: How to build a tweet bot that deletes tweets after a specified number of days.
 ---
 
 _I thought I was releasing my flighty words into the world with every tweet, but in reality, Twitter was just a bird cage rapidly filling with every inane utterance I flung into it._

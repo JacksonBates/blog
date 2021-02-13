@@ -3,6 +3,7 @@ title: How to Add Reading Time to Jekyll
 permalink: /reading-time
 date: 2020-11-15 23:30:00 +1100
 tags: [tips]
+description: A simple code snippet that can be added to Jekyll sites to calculate a rough reading time estimate and add it to the post pages
 ---
 
 One of the resonably simple things I've wanted to add for a while is an estimated reading time note on all my blog posts.

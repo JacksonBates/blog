@@ -3,6 +3,7 @@ title: The Case of the Spontaneous Data
 permalink: /spontaneous-data
 date: 2020-10-31 11:00:00 +1100
 tags: [inherited-codebase-diaries, laravel, databases]
+description: A post-mortem / forensic examination of where some unexplained data was coming from in a Laravel PHP application built by consultants
 ---
 
 Long before the invention of the internet, and indeed before medicine as we know it, there was a belief in a process known as Spontaneous Generation.

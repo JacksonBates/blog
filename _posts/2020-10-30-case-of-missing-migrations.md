@@ -3,6 +3,7 @@ title: The Case of the Missing Migrations
 permalink: /missing-migrations
 date: 2020-10-30 18:00:00 +1100
 tags: [inherited-codebase-diaries, laravel, databases]
+description: A post-mortem of the issues that can occur when PHP Laravel applications do not use migrations correctly
 ---
 
 I've been working exclusively in an inherited codebase for nearly a year now and I frequently see things the previous developers did that have caused problems.
