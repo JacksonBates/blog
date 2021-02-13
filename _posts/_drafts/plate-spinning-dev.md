@@ -14,19 +14,19 @@ At Grace Papers we're a 2 person dev team (and last year it was just me). So eve
 
 So to illustrate what a week overseeing the whole system looks like, here are the plates I can remember spinning recently:
 
-Amazon EC2 server maintainance, some Ubuntu, some 'Amazon Linux', via ssh
-SSL certificate update automation
-Amazon RDS database configuration and management
-DNS record changing
-Wordpress marketing site administration and migration
-Active development of 3 React codebases
-Active development of a Laraval PHP api codebase
-QA and testing automation
-Code review
-Developing and maintaining CI/CD pipelines
-Integration with 3rd party platforms like Hubspot
-Reverse engineering established 'no code' solutions that were handed over from consultants years ago and are no longer suitable.
-Meetings with external agencies around design, data strategy, cloud services, security, and marketing.
+- Amazon EC2 server maintainance, some Ubuntu, some 'Amazon Linux', via ssh
+- SSL certificate update automation
+- Amazon RDS database configuration and management
+- DNS record changing
+- Wordpress marketing site administration and migration
+- Active development of 3 React codebases
+- Active development of a Laraval PHP api codebase
+- QA and testing automation
+- Code review
+- Developing and maintaining CI/CD pipelines
+- Integration with 3rd party platforms like Hubspot
+- Reverse engineering established 'no code' solutions that were handed over from consultants years ago and are no longer suitable.
+- Meetings with external agencies around design, data strategy, cloud services, security, and marketing.
 
 Some of this falls outside of the remit of what we think of as software development, but it's all relevant work - since the code we write either has an impact on these other areas, or is determined by those areas. This is especially true when it comes to integrations, because the system relies on its interconnectedness and interdependencies.
 
