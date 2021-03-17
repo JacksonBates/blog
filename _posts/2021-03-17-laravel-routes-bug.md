@@ -28,7 +28,9 @@ Route::prefix('resources')->group(function () {
 ```
 
 GETs to `/api/resources/:resource_id` worked fine.
+
 POSTs to `/api/resources/response` also worked fine.
+
 But GET to `/api/resources/our-resources` triggered the error.
 
 Now that I type it out, the reason is pretty obvious. GET `/api/resources/our-resources` is interpreted as a call to `/api/resources/:resource_id` where the id is `our-resources`. So the @show method on the controller was intercepting the request, and not finding the correct resource (as it didn't exist in the database).
